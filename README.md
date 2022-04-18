@@ -1,7 +1,6 @@
 # ProMyHashMap
+Changing the package statement ~
 
-MyHashMap by Java
-
-使用测试文件时不要忘了更改文件路径o~
+Find Question 3-6 Pokémon in Question 3-6 Pokémon.pdf ~
 
 Don't forget to change the file path when using the test file~
